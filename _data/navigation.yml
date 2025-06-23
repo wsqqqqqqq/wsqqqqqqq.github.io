@@ -9,19 +9,19 @@
 
 main:
   - title: "About me"
-    url: /publications/
+    url: #about-me
 
   - title: "News"
-    url: /talks/    
+    url: #news   
 
   - title: "Publications"
-    url: /teaching/    
+    url: #publications   
     
   - title: "Educations"
-    url: /portfolio/
+    url: #educations
 
   - title: "CV"
-    url: /cv/
+    url: #cv
     
   # - title: "CV"
   #   url: /cv-json/
